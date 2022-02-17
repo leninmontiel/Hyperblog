@@ -4,7 +4,7 @@ Un blog increible para el curso de Git y Github de Platzi
 Learning
 >- Roger
 * Creado por el increible Platzi Team
-
+* Incluye ejemplos en Windows, linus y Mac
 ## En este curso vemos de todo:
 * Comandos de Git
 * Flujo de trabajo en Github
