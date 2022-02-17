@@ -5,6 +5,8 @@ Learning
 >- Roger
 * Creado por el increible Platzi Team
 * Incluye ejemplos en Windows, linus y Mac
+* Disponible para todas las edades
+
 ## En este curso vemos de todo:
 * Comandos de Git
 * Flujo de trabajo en Github
